@@ -18,17 +18,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,c,mysql,html,css,js,git,github,vscode&theme=dark)](https://skillicons.dev)
 
----
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tholkappiyan-vst&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tholkappiyan-vst&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tholkappiyan-vst&layout=compact&theme=tokyonight)
-
----
 
 ## 🚀 Featured Projects
 
