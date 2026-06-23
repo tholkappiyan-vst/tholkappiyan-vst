@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,c,mysql,html,css,js,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,springboot,c,mysql,html,css,js,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 
 
