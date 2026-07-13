@@ -54,7 +54,19 @@ Full-stack real-time auction platform engineered for high-frequency bidding.
 </td>
 <td width="50%" valign="top">
 
+### 🥇 Dead Man Switch System
+Spring Boot backend with automatic trigger-based alerting.
 
+- ✅ Secure REST APIs
+- ✅ Email/notification integration
+- ✅ Database-driven event monitoring
+
+**Stack:** Spring Boot · REST · Email/Notification services
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🥈 Smile Image Classification
 CNN-based image classifier built with Python & ML libraries.
@@ -80,6 +92,25 @@ Real-time weather app with a responsive UI.
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tholkappiyan-vst&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tholkappiyan-vst&theme=dark&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tholkappiyan-vst&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" width="48%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tholkappiyan-vst&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10"/>
 
 </div>
 
