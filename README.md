@@ -54,19 +54,7 @@ Full-stack real-time auction platform engineered for high-frequency bidding.
 </td>
 <td width="50%" valign="top">
 
-### 🥇 Dead Man Switch System
-Spring Boot backend with automatic trigger-based alerting.
 
-- ✅ Secure REST APIs
-- ✅ Email/notification integration
-- ✅ Database-driven event monitoring
-
-**Stack:** Spring Boot · REST · Email/Notification services
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🥈 Smile Image Classification
 CNN-based image classifier built with Python & ML libraries.
